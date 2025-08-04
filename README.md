@@ -1,4 +1,4 @@
-# Task 1 - '96 Library Database
+# Task 1 -  Library Database
 
 **Submitted by:** Jinesh Sharma
 
