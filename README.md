@@ -1,4 +1,4 @@
-# Task 1 - Library Database
+# Task 1 - '96 Library Database
 
 **Submitted by:** Jinesh Sharma
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Submission Notes
+## Notes
 
 - All required components are uploaded in this GitHub repo.
 - This task includes DDL, normalization, and ER diagram concepts.
